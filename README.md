@@ -24,7 +24,7 @@ O **Monitor de Cliques** é uma aplicação desenvolvida em Python utilizando **
 
 # Interface do Monitor de Cliques
 
-![alt text](Monitor_de_Cliques.png)
+![alt text]({Monitor_de_Cliques.png})
 
 A interface do Monitor de Cliques apresenta um design simples e funcional, focado na usabilidade e eficiência. Aqui estão os principais elementos e suas funções:
 
@@ -50,7 +50,7 @@ O Monitor de Cliques inclui diversas mensagens de erro e aviso para garantir que
 
 ## 🚨 1. Tentativa de iniciar sem selecionar uma atividade
 - Mensagem:
-![alt text](Aviso_2.png)
+![alt text]({Aviso_2.png})
 - Quando ocorre:
 O usuário clica em "Iniciar Contagem" sem escolher uma atividade no ComboBox.
 - Propósito da mensagem:
@@ -58,7 +58,7 @@ Evitar que cliques sejam registrados sem uma categorização adequada.
 
 ## 🚨 2. Tentativa de trocar de atividade durante a contagem
 - Mensagem:
-![alt text](Ação_Não_Permitida.png)
+![alt text]({Ação_Não_Permitida.png})
 - Quando ocorre:
 O usuário tenta mudar a atividade selecionada enquanto a contagem está ativa.
 - Propósito da mensagem:
@@ -66,7 +66,7 @@ Garantir que os registros de cliques sejam atribuídos corretamente a uma única
 
 ## 🚨 3. Tentativa de iniciar uma nova contagem sem finalizar a anterior
 - Mensagem:
-![alt text](Contagem_em_Andamento.png)
+![alt text]({Contagem_em_Andamento.png})
 - Quando ocorre:
 - O usuário tenta iniciar uma nova contagem sem ter finalizado a anterior.
 - Propósito da mensagem :
@@ -84,7 +84,7 @@ OBS: Caso o Excel seja aberto no Excel online, esta mensagem não irá aparecer.
 
 ## 🚨 5. Tentativa de fechar o programa sem finalizar a contagem
 - Mensagem:
-![alt text](Aviso.png)
+![alt text]({Aviso.png})
 - Quando ocorre:
 O usuário tenta fechar a aplicação enquanto a contagem ainda está ativa.
 - Propósito da manegsam:
