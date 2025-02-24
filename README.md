@@ -134,6 +134,6 @@ A planilha gerada contém as seguintes colunas:
 - **Atividade**: Atividade selecionada pelo usuário.
 
 ## Autor
-Desenvolvido por **Pamella Barros e Robson Calheira**
+Desenvolvido por **Pamella Ribeiro (@PamellaRB) e Robson Calheira (@Robdev01)**
 
 
